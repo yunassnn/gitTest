@@ -1,6 +1,6 @@
 package gitTest;
 
-public class MembetVO {
+public class MemberVO {
 	
 	private String bno;
 	private String name;
