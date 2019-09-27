@@ -13,5 +13,10 @@
 		<li>JAVASCRIPT</li>
 		<li>JQUERY</li>
 	</ul>
+	<ul>
+		<li>JAVA</li>
+		<li>JSP</li>
+		<li>SERVLET</li>
+	</ul>
 </body>
 </html>
