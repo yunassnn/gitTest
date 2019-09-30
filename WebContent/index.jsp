@@ -23,5 +23,6 @@
 		<li>MySQL</li>
 		<li>MongoDB</li>
 	</ul>
+	<div>div 영역 추가</div>
 </body>
 </html>
